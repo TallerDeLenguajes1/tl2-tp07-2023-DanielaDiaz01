@@ -1,0 +1,20 @@
+[
+  {
+    "IdTarea": 0,
+    "Titulo": "string",
+    "Descripcion": "string",
+    "Estado": "string"
+  },
+  {
+    "IdTarea": 0,
+    "Titulo": "string",
+    "Descripcion": "string",
+    "Estado": "string"
+  },
+  {
+    "IdTarea": 0,
+    "Titulo": "string",
+    "Descripcion": "string",
+    "Estado": "string"
+  }
+]

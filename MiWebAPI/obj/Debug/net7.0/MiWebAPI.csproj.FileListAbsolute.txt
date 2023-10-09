@@ -1,0 +1,67 @@
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\bin\Debug\net7.0\MiWebAPI.exe
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\bin\Debug\net7.0\MiWebAPI.deps.json
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\bin\Debug\net7.0\MiWebAPI.runtimeconfig.json
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\bin\Debug\net7.0\MiWebAPI.dll
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\bin\Debug\net7.0\MiWebAPI.pdb
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\MiWebAPI.csproj.AssemblyReference.cache
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\MiWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\MiWebAPI.AssemblyInfoInputs.cache
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\MiWebAPI.AssemblyInfo.cs
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\MiWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\MiWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\MiWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\staticwebassets\msbuild.MiWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.MiWebAPI.props
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MiWebAPI.props
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MiWebAPI.props
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\scopedcss\bundle\MiWebAPI.styles.css
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\MiWebAPI.csproj.CopyComplete
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\MiWebAPI.dll
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\refint\MiWebAPI.dll
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\MiWebAPI.pdb
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\MiWebAPI.genruntimeconfig.cache
+C:\Users\ROG BY NG\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\ref\MiWebAPI.dll
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\bin\Debug\net7.0\tareas.json
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\bin\Debug\net7.0\MiWebAPI.exe
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\bin\Debug\net7.0\MiWebAPI.deps.json
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\bin\Debug\net7.0\MiWebAPI.runtimeconfig.json
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\bin\Debug\net7.0\MiWebAPI.dll
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\bin\Debug\net7.0\MiWebAPI.pdb
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\MiWebAPI.csproj.AssemblyReference.cache
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\MiWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\MiWebAPI.AssemblyInfoInputs.cache
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\MiWebAPI.AssemblyInfo.cs
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\MiWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\MiWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\MiWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\staticwebassets\msbuild.MiWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.MiWebAPI.props
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MiWebAPI.props
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MiWebAPI.props
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\scopedcss\bundle\MiWebAPI.styles.css
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\MiWebAPI.csproj.CopyComplete
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\MiWebAPI.dll
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\refint\MiWebAPI.dll
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\MiWebAPI.pdb
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\MiWebAPI.genruntimeconfig.cache
+C:\Users\IngPabloLRomano\Desktop\tl2-tp07-2023-DanielaDiaz01\MiWebAPI\obj\Debug\net7.0\ref\MiWebAPI.dll
